@@ -1,0 +1,40 @@
+{
+  "person": [
+    {
+      "id": 10,
+      "gender": "M",
+      "firstName": "Major",
+      "lastName": "Jones",
+      "children": [13],
+      "father": 1,
+      "mother": 2
+    },
+    {
+      "id": 11,
+      "gender": "F",
+      "firstName": "Josephine",
+      "lastName": "Jones",
+      "children": [13],
+      "father": 3,
+      "mother": 4
+    },
+    {
+      "id": 13,
+      "gender": "F",
+      "firstName": "Marta",
+      "lastName": "Jones",
+      "children": [24, 25, 26],
+      "father": 10,
+      "mother": 11
+    },
+    {
+      "id": 14,
+      "gender": "M",
+      "firstName": "Jack",
+      "lastName": "Jones",
+      "children": [34, 35],
+      "father": 10,
+      "mother": 11
+    }
+  ]
+}
